@@ -8,7 +8,7 @@ Thank you all so much for all the support and suggestions. If you found these us
 
 ## Windows Phone
 
-Currently there are hundreds of 48x48 icons provided in this pack. If you are using the icons anywhere other than the application bar .xaml vector files are provided.
+Currently there are hundreds of 48x48 icons provided in this pack. If you are using the icons anywhere other than the application bar .xaml vector files are provided. Be sure to only use the white (aka dark) icons for the appbar.
 
 ## WindowsRT
 
