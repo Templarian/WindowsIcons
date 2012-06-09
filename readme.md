@@ -4,7 +4,7 @@ This project was started back in October 2011 with the goal of allowing develope
 
 My goal of moving the icons to github is to get more community involvement. I also have a strong feeling with the release of Windows 8 I will be unable to keep up with requests (but will be sure to keep the readme file constantly updated).
 
-Thanks everyone so much for all the support and suggestions.
+Thank you all so much for all the support and suggestions.
 
 ## Windows Phone
 
