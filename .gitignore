@@ -123,7 +123,14 @@ UpgradeLog*.XML
 ############
 
 # Windows image file caches
-Thumbs.db 
+Thumbs.db
+/WindowsPhone/Thumbs.db
+/WindowsPhone/design/Thumbs.db
+/WindowsPhone/design/scrabble/Thumbs.db
+/WindowsPhone/light/Thumbs.db
+/WindowsPhone/dark/Thumbs.db
+/WindowsPhone/xaml/Thumbs.db
+/WindowsRT/Thumbs.db
 
 # Folder config file
 Desktop.ini
