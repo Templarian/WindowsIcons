@@ -26,4 +26,4 @@ All of these icons were created in Expression Design.
 
 ## Contact
 
-Please send icon requests to @templarian on Twitter.
+Please send icon requests to Austin Andrews (@templarian) on Twitter.
