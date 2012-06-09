@@ -1,6 +1,6 @@
 # Windows Icons
 
-This project was started back in October 2011 with the goal of allowing developers a single solution for icons. Licensed under Creative Commons 3.0 the pack has grown very rapidly with hundreds of suggestions through Twitter.
+This [project](http://templarian.com/project_windows_phone_icons/) was started back in October 2011 with the goal of allowing developers a single solution for icons. Licensed under Creative Commons 3.0 the pack has grown very rapidly with hundreds of suggestions through Twitter.
 
 My goal of moving the icons to github is to get more community involvement. I also have a strong feeling with the release of Windows 8 I will be unable to keep up with requests (but will be sure to keep the readme file constantly updated).
 
