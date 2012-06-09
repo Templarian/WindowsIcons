@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Canvas xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Name="appbar_speakerphone" Width="48" Height="48" Clip="F1 M 0,0L 48,0L 48,48L 0,48L 0,0" UseLayoutRounding="False">
+	<Path Width="32" Height="22.0471" Canvas.Left="9" Canvas.Top="12.4529" Stretch="Fill" Fill="#FF000000" Data="F1 M 35.0447,24.2163L 34.801,22.2312L 40.7563,21.5L 41,23.4851L 35.0447,24.2163 Z M 33.7352,18.25L 32.2489,16.9117L 36.2637,12.4529L 37.75,13.7911L 33.7352,18.25 Z M 34.25,29.7524L 34.9992,27.898L 40.5623,30.1456L 39.8131,32L 34.25,29.7524 Z M 9,23L 11.2303,21.9963L 12.1883,30.2984L 10,30L 9,23 Z M 29,14C 30.6667,17 32.3333,20 32.8333,23.1667C 33.3333,26.3333 32.6667,29.6667 32,33L 22.394,31.6901L 21.5,34.5L 16.5,34.5L 15.6524,30.7708L 13.5755,30.4876L 12.5283,21.4123L 29,14 Z M 17.75,33L 20.25,33L 20.7853,31.4707L 17.2471,30.9882L 17.75,33 Z "/>
+</Canvas>

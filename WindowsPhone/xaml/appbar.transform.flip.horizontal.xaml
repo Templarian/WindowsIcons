@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Canvas xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Name="appbar_transform_flip_horizontal" Width="48" Height="48" Clip="F1 M 0,0L 48,0L 48,48L 0,48L 0,0" UseLayoutRounding="False">
+	<Path Width="26" Height="25" Canvas.Left="11" Canvas.Top="11" Stretch="Fill" Fill="#FF000000" Data="F1 M 23,11L 23,36L 11,36L 23,11 Z M 21,19L 14,34L 21,34L 21,19 Z M 25,11L 28.8012,18.9193L 27.2869,19.8279L 25,15L 25,11 Z M 31.4845,24.5093L 29.9426,25.4344L 28.0246,21.3853L 29.5466,20.4721L 31.4845,24.5093 Z M 34.1677,30.0994L 32.5984,31.041L 30.6803,26.9918L 32.2298,26.0621L 34.1677,30.0994 Z M 37,36L 35,36L 34,34L 33.3361,32.5984L 34.913,31.6522L 37,36 Z M 29,36L 29,34L 31,34L 32,34L 32,36L 29,36 Z M 25,36L 25,33L 27,33L 27,34L 27,36L 25,36 Z M 25,28L 27,28L 27,31L 25,31L 25,28 Z M 25,19L 27,23.2857L 27,26L 25,26L 25,19 Z "/>
+</Canvas>

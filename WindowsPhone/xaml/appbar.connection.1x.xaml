@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Canvas xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Name="appbar_connection_1x" Width="48" Height="48" Clip="F1 M 0,0L 48,0L 48,48L 0,48L 0,0" UseLayoutRounding="False">
+	<Path Width="7.15244" Height="15.57" Canvas.Left="13.9317" Canvas.Top="16.415" Stretch="Fill" Fill="#FF000000" Data="F1 M 17.5559,31.985L 21.0841,31.985L 21.0841,16.415L 18.0839,16.415L 13.9317,18.3313L 14.5317,21.062L 17.5079,19.6488L 17.5559,19.6488L 17.5559,31.985 Z "/>
+	<Path Width="12.21" Height="11.49" Canvas.Left="22.3351" Canvas.Top="20.495" Stretch="Fill" Fill="#FF000000" Data="F1 M 22.4305,20.495L 26.2938,26.1345L 22.3351,31.985L 26.3176,31.985L 27.4146,29.9173C 27.7087,29.3613 28.0029,28.7817 28.297,28.1786L 28.3685,28.1786C 28.6467,28.77 28.9488,29.3495 29.2747,29.9173L 30.4433,31.985L 34.5451,31.985L 30.6579,25.97L 34.4974,20.495L 30.5625,20.495L 29.5371,22.3751C 29.235,22.9273 28.9329,23.5147 28.6308,24.1373L 28.5832,24.1373C 28.2771,23.5773 27.9591,23.0056 27.6292,22.4221L 26.4846,20.495L 22.4305,20.495 Z "/>
+</Canvas>

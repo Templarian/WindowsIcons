@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Canvas xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Name="appbar_medical_pulse" Width="48" Height="48" Clip="F1 M 0,0L 48,0L 48,48L 0,48L 0,0" UseLayoutRounding="False">
+	<Path Width="35" Height="32.75" Canvas.Left="7" Canvas.Top="7.25002" Stretch="Fill" Fill="#FF000000" Data="F1 M 36.25,31L 30,31L 27,40L 25.5,40L 23.75,16.7501L 21.75,31L 18,31L 14.5,28.75L 12,31L 7,31L 7,29.25L 12,29.25L 14.5,27L 18,29.25L 19.9505,29.25L 23,7.25002L 24.75,7.50002L 26.9999,34.75L 29.25,29.25L 36,29.25L 40,26L 42,26L 42,27.75L 40,27.75L 36.25,31 Z "/>
+</Canvas>

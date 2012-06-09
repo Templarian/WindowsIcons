@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Canvas xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Name="appbar_lock" Width="48.0067" Height="48.0067" Clip="F1 M 0,0L 48.0067,0L 48.0067,48.0067L 0,48.0067L 0,0" UseLayoutRounding="False">
+	<Path Width="20.0028" Height="24.0033" Canvas.Left="14.0021" Canvas.Top="12.0017" Stretch="Fill" Fill="#FF000000" Data="F1 M 14.0021,23.0031L 16.0022,23.0031L 16.0022,20.0028C 16.0022,15.5839 19.5845,12.0017 24.0033,12.0017C 28.4222,12.0017 32.0045,15.5839 32.0045,20.0028L 32.0045,23.0031L 34.0049,23.0031L 34.0049,36.005L 14.0021,36.005L 14.0021,23.0031 Z M 29.004,20.0028C 29.004,17.241 26.7652,15.0021 24.0033,15.0021C 21.2415,15.0021 19.0026,17.241 19.0026,20.0028L 19.0026,23.0031L 29.004,23.0031L 29.004,20.0028 Z "/>
+</Canvas>

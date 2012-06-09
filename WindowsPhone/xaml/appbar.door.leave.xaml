@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Canvas xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Name="appbar_door_leave" Width="48.0067" Height="48.0067" Clip="F1 M 0,0L 48.0067,0L 48.0067,48.0067L 0,48.0067L 0,0" UseLayoutRounding="False">
+	<Path Width="23.0032" Height="24.0033" Canvas.Left="14.0019" Canvas.Top="12.0017" Stretch="Fill" Fill="#FF000000" Data="F1 M 19.0027,22.0036L 28.0039,22.0031L 23.0032,18.0025L 30.0042,18.0025L 37.0052,24.0033L 30.0042,30.0042L 23.0032,30.0042L 28.0039,26.0036L 19.0027,26.0036L 19.0027,22.0036 Z M 32.0045,12.0017L 32.0045,17.0024L 30.0042,17.0024L 30.0042,14.002L 16.0022,14.002L 16.0022,34.0047L 30.0042,34.0047L 30.0042,31.0043L 32.0045,31.0043L 32.0045,36.005L 14.0019,36.005L 14.0019,12.0017L 32.0045,12.0017 Z "/>
+</Canvas>

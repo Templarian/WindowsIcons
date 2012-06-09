@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Canvas xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Name="appbar_greek_sigma_uppercase" Width="48" Height="48" Clip="F1 M 0,0L 48,0L 48,48L 0,48L 0,0" UseLayoutRounding="False">
+	<Path Width="18.6075" Height="24.0075" Canvas.Left="14.6962" Canvas.Top="11.9963" Stretch="Fill" Fill="#FF000000" Data="F1 M 21.7063,31.296L 27.8129,23.8954L 22.1037,16.6702L 22.1037,16.5638L 32.4019,16.5638L 32.4019,11.9963L 15.0937,11.9963L 15.0937,15.6137L 21.9231,24.1058L 14.6962,32.8613L 14.6962,36.0037L 33.3037,36.0037L 33.3037,31.4363L 21.7063,31.4363L 21.7063,31.296 Z "/>
+</Canvas>

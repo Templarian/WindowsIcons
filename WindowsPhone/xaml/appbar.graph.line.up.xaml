@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Canvas xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Name="appbar_graph_line_up" Width="48" Height="48" Clip="F1 M 0,0L 48,0L 48,48L 0,48L 0,0" UseLayoutRounding="False">
+	<Path Width="27.6976" Height="24" Canvas.Left="11" Canvas.Top="12" Stretch="Fill" Fill="#FF000000" Data="F1 M 11,12L 13,12L 13,34L 37,34L 37,36L 11,36L 11,12 Z M 14,33L 14,30L 20,23L 29,27L 33.5915,18.9649L 30.3149,19.9044L 28.8024,18.2575L 36.4925,16.0524L 38.6976,23.7425L 36.4994,23.3325L 35.4885,19.8071L 30,30L 20,26L 14,33 Z "/>
+</Canvas>

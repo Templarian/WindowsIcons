@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Canvas xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Name="appbar_eye_check" Width="48" Height="48" Clip="F1 M 0,0L 48,0L 48,48L 0,48L 0,0" UseLayoutRounding="False">
+	<Path Width="28" Height="27" Canvas.Left="11" Canvas.Top="13" Stretch="Fill" Fill="#FF000000" Data="F1 M 24.3,30.9L 28.95,35.8L 36.9,26L 39,28.1L 29.2,40L 22.2,33L 24.3,30.9 Z M 24,18C 25.6569,18 27,19.3431 27,21C 27,22.6569 25.6569,24 24,24C 22.3431,24 21,22.6569 21,21C 21,19.3431 22.3431,18 24,18 Z M 24,13C 31,13 37,18 37,21C 37,24 31,29 24,29C 17,29 11,24 11,21C 11,18 17,13 24,13 Z M 24,15.5C 20.9624,15.5 18.5,17.9624 18.5,21C 18.5,24.0376 20.9624,26.5 24,26.5C 27.0376,26.5 29.5,24.0376 29.5,21C 29.5,17.9624 27.0376,15.5 24,15.5 Z "/>
+</Canvas>

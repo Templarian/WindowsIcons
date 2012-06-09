@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Canvas xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Name="appbar_currency_yen" Width="48" Height="48" Clip="F1 M 0,0L 48,0L 48,48L 0,48L 0,0" UseLayoutRounding="False">
+	<Path Width="20.4129" Height="23.9933" Canvas.Left="13.8102" Canvas.Top="12.0067" Stretch="Fill" Fill="#FF000000" Data="F1 M 26,36L 26,31L 32,31L 32,28L 26,28L 26,26L 32.5,26L 32.5,23L 27.5,23L 34.2231,12.0067L 28.2494,12.0067L 25.6232,17.8593C 25.0315,19.3192 24.5123,20.4188 24.0655,21.6579L 23.9931,21.6579C 23.5765,20.4126 23.0693,19.3254 22.4716,17.8961L 19.8959,12.0067L 13.8102,12.0067L 20.5,23L 15.5,23L 15.5,26L 22,26L 22,28L 16,28L 16,31L 22,31L 22,36L 26,36 Z "/>
+</Canvas>

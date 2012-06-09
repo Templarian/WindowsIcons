@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Canvas xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Name="appbar_youtube_play" Width="48" Height="48" Clip="F1 M 0,0L 48,0L 48,48L 0,48L 0,0" UseLayoutRounding="False">
+	<Path Width="26" Height="19" Canvas.Left="11" Canvas.Top="14.5" Stretch="Fill" Fill="#FF000000" Data="F1 M 16,15C 16,15 20.0833,14.5 24.0417,14.5C 28,14.5 32,15 32,15C 34.7614,15 37,17.2386 37,20L 37,28C 37,30.7614 34,33 32,33C 32,33 27.9166,33.5 23.9583,33.5C 20,33.5 16,33 16,33C 13.2386,33 11,30.7614 11,28L 11,20C 11,17.2386 14,15 16,15 Z M 22,18L 22,30L 28,24L 22,18 Z "/>
+</Canvas>

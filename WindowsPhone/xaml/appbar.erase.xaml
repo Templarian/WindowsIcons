@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Canvas xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Name="appbar_erase" Width="48" Height="48" Clip="F1 M 0,0L 48,0L 48,48L 0,48L 0,0" UseLayoutRounding="False">
+	<Path Width="28.25" Height="20" Canvas.Left="11" Canvas.Top="14" Stretch="Fill" Fill="#FF000000" Data="F1 M 13,27L 13,32L 22,32L 22,27L 13,27 Z M 11,34L 11,27L 25,14L 36.75,14L 39.25,17L 36.9231,22L 24,34L 11,34 Z M 37,17L 35.32,15.56L 24,26.0714L 24,31.4464L 35.25,21L 37.25,17.5L 37,17 Z "/>
+</Canvas>

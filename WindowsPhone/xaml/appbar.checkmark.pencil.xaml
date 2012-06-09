@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Canvas xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Name="appbar_checkmark_pencil" Width="48" Height="48" Clip="F1 M 0,0L 48,0L 48,48L 0,48L 0,0" UseLayoutRounding="False">
+	<Path Width="31.4068" Height="30.9068" Canvas.Left="10" Canvas.Top="10.5001" Stretch="Fill" Fill="#FF000000" Data="F1 M 15.35,15.15L 19.75,19.2999L 27.45,10.5001L 29.55,12.3501L 20,24L 13.25,17.25L 15.35,15.15 Z M 10,11L 25.5,11L 23.75,13L 12,13L 12,25L 24,25L 24,20.8235L 26,18.4706L 26,27L 10,27L 10,11 Z M 32.7499,22.6571L 37.7499,27.657L 25.75,39.657L 20.7499,34.657L 32.7499,22.6571 Z M 38.6997,26.6569L 33.75,21.7071L 35.8713,19.5858C 36.6523,18.8047 37.9187,18.8047 38.6997,19.5858L 40.821,21.7071C 41.6021,22.4882 41.6021,23.7545 40.821,24.5355L 38.6997,26.6569 Z M 19.5,41.4069L 19,40.9069L 20.3125,36.7194L 23.6875,40.0944L 19.5,41.4069 Z "/>
+</Canvas>

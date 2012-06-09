@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Canvas xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Name="appbar_equalizer" Width="48" Height="48" Clip="F1 M 0,0L 48,0L 48,48L 0,48L 0,0" UseLayoutRounding="False">
+	<Path Width="26" Height="19" Canvas.Left="11" Canvas.Top="15" Stretch="Fill" Fill="#FF000000" Data="F1 M 14,15L 16,15L 16,22L 19,22L 19,25L 16,25L 16,34L 14,34L 14,25L 11,25L 11,22L 14,22L 14,15 Z M 23,15L 25,15L 25,28L 28,28L 28,31L 25,31L 25,34L 23,34L 23,31L 20,31L 20,28L 23,28L 23,15 Z M 32,15L 34,15L 34,17L 37,17L 37,20L 34,20L 34,34L 32,34L 32,20L 29,20L 29,17L 32,17L 32,15 Z "/>
+</Canvas>

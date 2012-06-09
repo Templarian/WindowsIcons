@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Canvas xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Name="appbar_martini" Width="48" Height="48" Clip="F1 M 0,0L 48,0L 48,48L 0,48L 0,0" UseLayoutRounding="False">
+	<Path Width="22" Height="22" Canvas.Left="13" Canvas.Top="13" Stretch="Fill" Fill="#FF000000" Data="F1 M 26,31C 29.3333,32 31,33 34,33C 35,33 35,33.4477 35,34C 35,34.5523 34.5523,35 34,35L 14,35C 13.4477,35 13,34.5523 13,34C 13,33.4477 13,33 14,33C 17,33 18.6667,32 22,31L 22,24L 14,13L 34,13L 26,24L 26,31 Z M 25.5,17C 24.6716,17 24,17.6716 24,18.5C 24,19.3284 24.6716,20 25.5,20C 26.3284,20 27,19.3284 27,18.5C 27,17.6716 26.3284,17 25.5,17 Z "/>
+</Canvas>

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Canvas xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Name="appbar_movie_clapper_solid" Width="48" Height="48" Clip="F1 M 0,0L 48,0L 48,48L 0,48L 0,0" UseLayoutRounding="False">
+	<Path Width="25.1769" Height="24.8214" Canvas.Left="10.8233" Canvas.Top="11.1786" Stretch="Fill" Fill="#FF000000" Data="F1 M 31.8618,11.2303C 32.9381,10.9818 34.012,11.6529 34.2605,12.7291L 35.3852,17.601L 11.9998,22.9999L 10.875,18.1281C 10.6265,17.0518 11.2976,15.9779 12.3739,15.7294L 31.8618,11.2303 Z M 34.0003,36L 13.9997,36C 12.8952,36 11.9997,35.1046 11.9997,34L 11.9997,23L 36,23L 36.0003,34C 36.0003,35.1046 35.1048,36 34.0003,36 Z "/>
+</Canvas>

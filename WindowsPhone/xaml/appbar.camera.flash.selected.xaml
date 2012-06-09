@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Canvas xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Name="appbar_camera_flash_selected" Width="48" Height="48" Clip="F1 M 0,0L 48,0L 48,48L 0,48L 0,0" UseLayoutRounding="False">
+	<Path Width="44" Height="44" Canvas.Left="2" Canvas.Top="2" Stretch="Fill" Fill="#FF000000" Data="F1 M 24,2C 36.1503,2 46,11.8497 46,24C 46,36.1503 36.1503,46 24,46C 11.8497,46 2,36.1503 2,24C 2,11.8497 11.8497,2 24,2 Z M 33.0013,11.9983L 22.9999,11.9983L 15,25L 22,25L 15.9989,38L 32,22L 24,22L 33.0013,11.9983 Z "/>
+</Canvas>

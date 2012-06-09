@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Canvas xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Name="appbar_layer_arrange_solid_bringforward" Width="48" Height="48" Clip="F1 M 0,0L 48,0L 48,48L 0,48L 0,0" UseLayoutRounding="False">
+	<Path Width="25" Height="25" Canvas.Left="12" Canvas.Top="12" Stretch="Fill" Fill="#FF000000" Data="F1 M 12,32L 12,12L 32,12L 32.0003,31.9996L 12,32 Z M 19,33L 21,33L 21,35L 35,35L 35,21L 33,21L 33,19L 37,19L 37,37L 19,37L 19,33 Z "/>
+</Canvas>

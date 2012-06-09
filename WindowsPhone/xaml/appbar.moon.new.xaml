@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Canvas xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Name="appbar_moon_new" Width="47.994" Height="47.994" Clip="F1 M 0,0L 47.994,0L 47.994,47.994L 0,47.994L 0,0" UseLayoutRounding="False">
+	<Path Width="27.9965" Height="27.9965" Canvas.Left="9.99875" Canvas.Top="9.99875" Stretch="Fill" Fill="#FF000000" Data="F1 M 23.997,9.99875C 31.728,9.99875 37.9953,16.266 37.9953,23.997C 37.9953,31.728 31.728,37.9952 23.997,37.9952C 16.266,37.9952 9.99875,31.728 9.99875,23.997C 9.99875,16.266 16.266,9.99875 23.997,9.99875 Z M 23.9971,11.4985C 17.0944,11.4985 11.4986,17.0942 11.4986,23.9969C 11.4986,30.8996 17.0944,36.4954 23.9971,36.4954C 30.8998,36.4954 36.4955,30.8996 36.4955,23.9969C 36.4955,17.0942 30.8998,11.4985 23.9971,11.4985 Z "/>
+</Canvas>

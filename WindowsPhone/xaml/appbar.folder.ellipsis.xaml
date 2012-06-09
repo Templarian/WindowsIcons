@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Canvas xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Name="appbar_folder_ellipsis" Width="48" Height="48" Clip="F1 M 0,0L 48,0L 48,48L 0,48L 0,0" UseLayoutRounding="False">
+	<Path Width="22" Height="24" Canvas.Left="13" Canvas.Top="13" Stretch="Fill" Fill="#FF000000" Data="F1 M 13,16L 23,16L 23,15C 23,13.8954 23.8954,13 25,13L 32,13C 33.1046,13 35,14.8954 35,16L 35,32L 13,32L 13,16 Z M 28,33C 29.1046,33 30,33.8954 30,35C 30,36.1046 29.1046,37 28,37C 26.8954,37 26,36.1046 26,35C 26,33.8954 26.8954,33 28,33 Z M 33,33C 34.1046,33 35,33.8954 35,35C 35,36.1046 34.1046,37 33,37C 31.8954,37 31,36.1046 31,35C 31,33.8954 31.8954,33 33,33 Z M 23,33C 24.1046,33 25,33.8954 25,35C 25,36.1046 24.1046,37 23,37C 21.8954,37 21,36.1046 21,35C 21,33.8954 21.8954,33 23,33 Z "/>
+</Canvas>

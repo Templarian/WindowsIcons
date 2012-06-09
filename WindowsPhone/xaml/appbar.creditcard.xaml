@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Canvas xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Name="appbar_creditcard" Width="48" Height="48" Clip="F1 M 0,0L 48,0L 48,48L 0,48L 0,0" UseLayoutRounding="False">
+	<Path Width="26" Height="20" Canvas.Left="11" Canvas.Top="14" Stretch="Fill" Fill="#FF000000" Data="F1 M 15,14L 33,14C 35.2091,14 37,15.7909 37,18L 37,30C 37,32.2091 35.2091,34 33,34L 15,34C 12.7909,34 11,32.2091 11,30L 11,18C 11,15.7909 12.7909,14 15,14 Z M 36,27L 12,27L 12,29C 12,29.7286 12.1948,30.4117 12.5351,31L 35.4649,31C 35.8052,30.4117 36,29.7286 36,29L 36,27 Z M 13,16L 13,20L 17,20L 17,16L 13,16 Z "/>
+</Canvas>

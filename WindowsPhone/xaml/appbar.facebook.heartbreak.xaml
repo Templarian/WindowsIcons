@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Canvas xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Name="appbar_facebook_heartbreak" Width="48" Height="48" Clip="F1 M 0,0L 48,0L 48,48L 0,48L 0,0" UseLayoutRounding="False">
+	<Path Width="26.3809" Height="24" Canvas.Left="11" Canvas.Top="12" Stretch="Fill" Fill="#FF000000" Data="F1 M 11.5,20L 15,20L 15,16C 15,13.7909 16.7909,12 19,12L 23,12L 23,16L 21,16C 19.8954,16 19,16.8954 19,18L 19,20L 23,20L 23,23L 19,23L 19,36L 15,36L 15,23L 11,23L 11.5,20 Z M 23,27.4532C 22.3352,24.9842 24.2345,23.0849 25.8489,22.8C 27.1998,22.5616 28.3511,23.4535 29.47,24.53L 28.413,30.3022L 30.1223,29.7324L 30.1223,36L 32.4015,27.4532L 30.6921,28.023L 31.6627,23.7398C 32.5098,23.0641 33.3984,22.624 34.3957,22.8C 36.0101,23.0849 37.9094,24.9842 37.2446,27.4532C 36.5799,29.9223 33.3511,32.9612 30.1223,36C 26.8935,32.9612 23.6648,29.9223 23,27.4532 Z "/>
+</Canvas>

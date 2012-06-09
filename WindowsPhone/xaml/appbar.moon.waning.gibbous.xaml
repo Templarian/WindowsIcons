@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Canvas xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Name="appbar_moon_waning_gibbous" Width="47.994" Height="47.994" Clip="F1 M 0,0L 47.994,0L 47.994,47.994L 0,47.994L 0,0" UseLayoutRounding="False">
+	<Path Width="20.9974" Height="27.9013" Canvas.Left="9.99875" Canvas.Top="10.0465" Stretch="Fill" Fill="#FF000000" Data="F1 M 9.99875,23.9971C 9.99875,31.3366 15.6473,37.3568 22.8343,37.9478C 27.7058,35.2056 30.9961,29.9856 30.9961,23.9971C 30.9961,18.0087 27.7058,12.7887 22.8343,10.0465C 15.6473,10.6374 9.99875,16.6576 9.99875,23.9971 Z "/>
+</Canvas>

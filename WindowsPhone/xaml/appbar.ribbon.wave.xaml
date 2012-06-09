@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Canvas xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Name="appbar_ribbon_wave" Width="48" Height="48" Clip="F1 M 0,0L 48,0L 48,48L 0,48L 0,0" UseLayoutRounding="False">
+	<Path Width="14.1773" Height="24" Canvas.Left="16.9113" Canvas.Top="12" Stretch="Fill" Fill="#FF000000" Data="F1 M 18,36C 18.6667,32.3333 19.3333,28.6667 19,25.8333C 18.6667,23 17.3333,21 17,18.8333C 16.6667,16.6667 17.3333,14.3333 18,12L 30,12C 29.3333,14.3333 28.6667,16.6667 29,18.8333C 29.3333,21 30.6667,23 31,25.8333C 31.3333,28.6667 30.6667,32.3333 30,36L 25,30L 18,36 Z "/>
+</Canvas>

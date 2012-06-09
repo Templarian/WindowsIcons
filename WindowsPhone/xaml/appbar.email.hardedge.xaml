@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Canvas xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Name="appbar_email_hardedge" Width="48" Height="48" Clip="F1 M 0,0L 48,0L 48,48L 0,48L 0,0" UseLayoutRounding="False">
+	<Path Width="24" Height="18" Canvas.Left="12" Canvas.Top="15" Stretch="Fill" Fill="#FF000000" Data="F1 M 12,15L 36,15L 36,33L 12,33L 12,15 Z M 14,31L 34,31L 34,19.7273L 24,27L 14,19.7273L 14,31 Z M 14.375,17L 24,24L 24,24L 33.625,17L 14.375,17 Z "/>
+</Canvas>

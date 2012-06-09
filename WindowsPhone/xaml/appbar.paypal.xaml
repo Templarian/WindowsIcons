@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Canvas xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Name="appbar_paypal" Width="48" Height="48" Clip="F1 M 0,0L 48,0L 48,48L 0,48L 0,0" UseLayoutRounding="False">
+	<Path Width="28.5" Height="29" Canvas.Left="9.5" Canvas.Top="9" Stretch="Fill" Fill="#FF000000" Data="F1 M 38,18.5C 38,23.1944 33.9706,29 29,29L 21.4038,29L 19.5,38L 12.5,38L 12.8702,36.25L 18.25,36.25L 20.1538,27.25L 27.75,27.25C 32.7206,27.25 36.75,21.4444 36.75,16.75C 36.75,15.7661 36.573,14.909 36.2474,14.169C 37.3489,15.1928 38,16.613 38,18.5 Z M 15,9L 26,9L 27,9L 27,9.02539C 31.4999,9.25893 35,12 35,15.5C 35,21 30.9706,26 26,26L 18.6538,26L 16.75,35L 9.5,35L 15,9 Z M 28.25,17C 28.1335,15.6019 27.4084,14.8816 26.2616,14.5L 21.0865,14.5L 19.6058,21.5L 23.4968,21.5C 26.4615,20.5978 28.25,18.6388 28.25,17 Z "/>
+</Canvas>

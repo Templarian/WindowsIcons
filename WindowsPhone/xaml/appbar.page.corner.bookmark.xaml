@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Canvas xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Name="appbar_page_corner_bookmark" Width="48" Height="48" Clip="F1 M 0,0L 48,0L 48,48L 0,48L 0,0" UseLayoutRounding="False">
+	<Path Width="34" Height="34.5" Canvas.Left="2" Canvas.Top="10" Stretch="Fill" Fill="#FF000000" Data="F1 M 5.5,12L 18,12L 18,10L 30,10L 30,12L 36,12L 36,42.5L 33,44.5L 33,15L 30,15L 30,35L 24,29L 18,35L 18,15L 4,15L 5.5,12 Z M 15,20L 15,23L 2,23L 2.5,20L 15,20 Z M 15,26L 15,29L 2.5,29L 2,26L 15,26 Z M 15,35L 5,35L 3.5,32L 15,32L 15,35 Z M 29,38L 29,41L 10,41L 7,38L 29,38 Z "/>
+</Canvas>

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Canvas xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Name="appbar_chess_king" Width="48" Height="48" Clip="F1 M 0,0L 48,0L 48,48L 0,48L 0,0" UseLayoutRounding="False">
+	<Path Width="14" Height="28" Canvas.Left="17" Canvas.Top="10" Stretch="Fill" Fill="#FF000000" Data="F1 M 18.75,24L 21.7353,22.1765L 21.9612,19.4656L 21.6667,19.3333C 20.3333,18.6667 19.6667,17.3333 19,16L 22.75,16L 22.8333,14L 21,14L 21,12L 22.9167,12L 23,10L 25,10L 25.0833,12L 27,12L 27,14L 25.1667,14L 25.25,16L 29,16C 28.3333,17.3333 27.6667,18.6667 26.3333,19.3333L 26.0388,19.4656L 26.2647,22.1765L 29.25,24L 26.4167,24L 27,30.75L 28.5,31L 29,32L 27.0833,32L 30,37L 31,37L 31,38L 17,38L 17,37L 18,37L 20.9167,32L 19,32L 19.5,31L 21,30.75L 21.5833,24L 18.75,24 Z "/>
+</Canvas>

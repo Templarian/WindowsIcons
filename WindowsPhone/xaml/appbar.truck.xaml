@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Canvas xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Name="appbar_truck" Width="48" Height="48" Clip="F1 M 0,0L 48,0L 48,48L 0,48L 0,0" UseLayoutRounding="False">
+	<Path Width="26" Height="17" Canvas.Left="11" Canvas.Top="16" Stretch="Fill" Fill="#FF000000" Data="F1 M 17.5,28C 18.8807,28 20,29.1193 20,30.5C 20,31.8807 18.8807,33 17.5,33C 16.1193,33 15,31.8807 15,30.5C 15,29.1193 16.1193,28 17.5,28 Z M 31.5,28C 32.8807,28 34,29.1193 34,30.5C 34,31.8807 32.8807,33 31.5,33C 30.1193,33 29,31.8807 29,30.5C 29,29.1193 30.1193,28 31.5,28 Z M 22,29L 22,16L 37,16L 37,29L 35.2092,29C 34.6158,27.5341 33.1787,26.5 31.5,26.5C 29.8213,26.5 28.3841,27.5341 27.7908,29L 22,29 Z M 11,29L 11,23L 15,19L 21,19L 21,28.562C 20.3176,27.3323 19.006,26.5 17.5,26.5C 15.8213,26.5 14.3841,27.5341 13.7908,29L 11,29 Z "/>
+</Canvas>

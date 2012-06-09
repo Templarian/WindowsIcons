@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Canvas xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Name="appbar_book_side" Width="48" Height="48" Clip="F1 M 0,0L 48,0L 48,48L 0,48L 0,0" UseLayoutRounding="False">
+	<Path Width="30" Height="20" Canvas.Left="9" Canvas.Top="14" Stretch="Fill" Fill="#FF000000" Data="F1 M 15,23L 39,23L 39,25L 15,25L 15,23 Z M 18,19L 39,19L 39,21L 18,21L 18,19 Z M 18,27L 39,27L 39,29L 18,29L 18,27 Z M 19,31L 39,31L 39,34L 19,34C 13.4772,34 9,29.5229 9,24C 9,18.4772 13.4771,14 19,14L 39,14L 39,17L 19,17C 15.134,17 12,20.134 12,24C 12,27.866 15.134,31 19,31 Z "/>
+</Canvas>

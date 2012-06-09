@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Canvas xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Name="appbar_inbox" Width="48" Height="48" Clip="F1 M 0,0L 48,0L 48,48L 0,48L 0,0" UseLayoutRounding="False">
+	<Path Width="24" Height="22" Canvas.Left="12" Canvas.Top="12" Stretch="Fill" Fill="#FF000000" Data="F1 M 23.5,27L 18,20L 21,20L 21,12L 27,12L 27,20L 30,20L 24.5,27L 23.5,27 Z M 12,24L 15,17L 18.75,17L 18.75,19L 16.5,19L 14.5,24L 19.5,24C 19.5,26.4853 21.5147,28.5 24,28.5C 26.4853,28.5 28.5,26.4853 28.5,24L 33.5,24L 31.5,19L 29.25,19L 29.25,17L 33,17L 36,24L 36,34L 12,34L 12,24 Z "/>
+</Canvas>

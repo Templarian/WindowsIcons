@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Canvas xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Name="appbar_currency_rupee" Width="48" Height="48" Clip="F1 M 0,0L 48,0L 48,48L 0,48L 0,0" UseLayoutRounding="False">
+	<Path Width="5.5" Height="3" Canvas.Left="15.5" Canvas.Top="11" Stretch="Fill" Fill="#34000000" Data="F1 M 20,14L 15.5,14L 18,11L 21,11L 20,14 Z "/>
+	<Path Width="19" Height="26" Canvas.Left="15" Canvas.Top="11" Stretch="Fill" Fill="#FF000000" Data="F1 M 15,19L 18,16L 23.158,16C 22.261,14.794 20.7335,14 19,14L 15,14L 18,11L 34,11L 31,14L 26.7453,14C 27.1666,14.604 27.4951,15.2776 27.7101,16L 34,16L 31,19L 27.9291,19C 27.4439,22.3923 24.5265,25 21,25L 20.4111,24.9756L 29,37L 25,37L 16,24.4L 16,23L 17,23L 19,23C 21.5736,23 23.6931,21.25 23.9695,19L 15,19 Z "/>
+</Canvas>

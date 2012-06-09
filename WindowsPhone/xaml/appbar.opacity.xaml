@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Canvas xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Name="appbar_opacity" Width="48" Height="48" Clip="F1 M 0,0L 48,0L 48,48L 0,48L 0,0" UseLayoutRounding="False">
+	<Path Width="24" Height="24" Canvas.Left="12" Canvas.Top="12" Stretch="Fill" Data="F1 M 12,12L 16,12L 16,16L 20,16L 20,12L 24,12L 24,16L 28,16L 28,12L 32,12L 32,16L 36,16L 36,20L 32,20L 32,24L 36,24L 36,28L 32,28L 32,32L 36,32L 36,36L 32,36L 32,32L 28,32L 28,36L 24,36L 24,32L 20,32L 20,36L 16,36L 16,32L 12,32L 12,28L 16,28L 16,24L 12,24L 12,20L 16,20L 16,16L 12,16L 12,12 Z M 32,24L 28,24L 28,28L 32,28L 32,24 Z M 32,16L 28,16L 28,20L 32,20L 32,16 Z M 28,28L 24,28L 24,32L 28,32L 28,28 Z M 24,28L 24,24L 20,24L 20,28L 24,28 Z M 20,28L 16,28L 16,32L 20,32L 20,28 Z M 28,20L 24,20L 24,24L 28,24L 28,20 Z M 24,20L 24,16L 20,16L 20,20L 24,20 Z M 20,20L 16,20L 16,24L 20,24L 20,20 Z ">
+		<Path.Fill>
+			<LinearGradientBrush StartPoint="0.853553,0.853553" EndPoint="0.146447,0.146447">
+				<LinearGradientBrush.GradientStops>
+					<GradientStop Color="#1A000000" Offset="0"/>
+					<GradientStop Color="#FF000000" Offset="1"/>
+				</LinearGradientBrush.GradientStops>
+			</LinearGradientBrush>
+		</Path.Fill>
+	</Path>
+</Canvas>
