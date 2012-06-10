@@ -28,4 +28,4 @@ All of these icons were created in Expression Design.
 
 ## Contact
 
-Please send icon requests to Austin Andrews ([@templarian](http://twitter.com/templarian) on Twitter or create a new issue.
+Please send icon requests to Austin Andrews ([@templarian](http://twitter.com/templarian)) on Twitter or create a new issue.
