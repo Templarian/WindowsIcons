@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Canvas xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Name="appbar_folder_puzzle" Width="48" Height="48" Clip="F1 M 0,0L 48,0L 48,48L 0,48L 0,0" UseLayoutRounding="False">
+	<Path Width="26" Height="22" Canvas.Left="12" Canvas.Top="14" Stretch="Fill" Fill="#FF000000" Data="F1 M 33,26L 36,26L 36,29L 38,29L 38,32L 36,32L 36,36L 33,36L 33,34L 30,34L 30,36L 26,36L 26,32L 28,32L 28,29L 26,29L 26,26L 30,26L 30,24L 33,24L 33,26 Z M 12,17L 22,17L 22,16C 22,14.8954 22.8954,14 24,14L 31,14C 32.1046,14 34,15.8954 34,17L 34,23L 29,23L 29,25L 25,25L 25,33L 12,33L 12,17 Z "/>
+</Canvas>
