@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Canvas xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Name="appbar_network_port_disconnect" Width="48" Height="48" Clip="F1 M 0,0L 48,0L 48,48L 0,48L 0,0" UseLayoutRounding="False">
+	<Path Width="26" Height="25" Canvas.Left="11" Canvas.Top="13" Stretch="Fill" Fill="#FF000000" Data="F1 M 18.4,22L 24,27.6L 29.6,22L 32,24.4L 26.4,30L 32,35.6L 29.6,38L 24,32.4L 18.4,38L 16,35.6L 21.6,30L 16.0001,24.4L 18.4,22 Z M 30,29L 36,29L 36,32L 30,32L 30,29 Z M 18,29L 18,32L 12,32L 12,29L 18,29 Z M 14,13L 34,13C 35.6568,13 37,14.3431 37,16L 37,20L 11,20L 11,16C 11,14.3431 12.3431,13 14,13 Z M 33.5,14C 32.6716,14 32,14.6716 32,15.5C 32,16.3284 32.6716,17 33.5,17C 34.3284,17 35,16.3284 35,15.5C 35,14.6716 34.3284,14 33.5,14 Z "/>
+</Canvas>
