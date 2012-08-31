@@ -19,6 +19,12 @@ Contributor*
   - appbar.currency.grivna
 - Massimo Savazzi (@msavazzi)
   - List of missing exported icons
+- Proletkult Graphik, from The Noun Project
+  - appbar.draw.pen (inspired)
+- Olivier Guin, from The Noun Project
+  - appbar.draw.marker
+- Gibran Bisio, from The Noun Project
+  - appbar.draw.bucket
 
 * Developers and designers that emailed Templarian the source .design icons to be added into the package. PNGs also accepted, but may take longer to be added.
 
