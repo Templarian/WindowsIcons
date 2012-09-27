@@ -27,6 +27,8 @@ Attribution***
   - appbar.draw.marker
 - Gibran Bisio, from The Noun Project
   - appbar.draw.bucket
+Andrew Forrester, from The Noun Project
+  - appbar.fingerprint
 
 ** Developers and designers that emailed Templarian the source .design icons to be added into the package. PNGs also accepted, but may take longer to be added.
 *** Icons I've copied so closely you want to attribute them and are also under the CC license.
