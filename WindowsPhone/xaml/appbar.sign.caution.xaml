@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Canvas xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Name="appbar_sign_caution" Width="76" Height="76" Clip="F1 M 0,0L 76,0L 76,76L 0,76L 0,0">
+	<Path Width="38" Height="38" Canvas.Left="19" Canvas.Top="19" Stretch="Fill" Fill="#FF000000" Data="F1 M 19,19L 57,19L 57,41.1667L 52.25,41.1667L 52.25,57L 49.0833,57L 49.0833,41.1667L 26.9166,41.1667L 26.9167,57L 23.75,57L 23.75,41.1667L 19,41.1667L 19,19 Z M 22.1667,22.1667L 22.1666,38.0001L 53.8333,38.0001L 53.8333,22.1667L 22.1667,22.1667 Z M 23.75,36.4167L 23.75,33.25L 33.25,23.75L 41.1666,23.75L 28.5,36.4167L 23.75,36.4167 Z M 41.1667,36.4167L 33.25,36.4167L 45.9166,23.75L 52.25,23.75L 52.25,25.3333L 41.1667,36.4167 Z M 23.75,28.5L 23.75,23.75L 28.5,23.75L 23.75,28.5 Z M 52.25,36.4167L 45.9167,36.4167L 52.25,30.0833L 52.25,36.4167 Z "/>
+</Canvas>

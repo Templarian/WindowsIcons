@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Canvas xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Name="appbar_moon_waxing_crescent" Width="75.9905" Height="75.9905" Clip="F1 M 0,0L 75.9905,0L 75.9905,75.9905L 0,75.9905L 0,0">
+	<Path Width="24.0048" Height="44.3278" Canvas.Left="36.1543" Canvas.Top="15.8314" Stretch="Fill" Fill="#FF000000" Data="F1 M 37.9953,15.8314C 37.3753,15.8314 36.7614,15.8568 36.1544,15.9067C 43.8675,20.2486 49.0772,28.5135 49.0772,37.9952C 49.0772,47.477 43.8675,55.7419 36.1543,60.0838C 36.7614,60.1337 37.3753,60.1591 37.9953,60.1591C 50.236,60.1591 60.1591,50.236 60.1591,37.9953C 60.1591,25.7545 50.236,15.8314 37.9953,15.8314 Z "/>
+</Canvas>

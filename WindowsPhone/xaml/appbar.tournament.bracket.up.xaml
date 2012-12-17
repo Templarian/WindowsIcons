@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Canvas xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Name="appbar_tournament_bracket_up" Width="76" Height="76" Clip="F1 M 0,0L 76,0L 76,76L 0,76L 0,0">
+	<Path Width="44.3333" Height="34.8333" Canvas.Left="15.8333" Canvas.Top="19" Stretch="Fill" Fill="#FF000000" Data="F1 M 15.8333,53.8333L 22.1666,53.8333L 22.1667,45.9166L 28.5,45.9167L 28.5,53.8333L 34.8333,53.8333L 34.8333,39.5833L 28.5,39.5833L 28.5,33.25L 47.5,33.25L 47.5,39.5833L 41.1667,39.5833L 41.1666,53.8333L 47.5,53.8333L 47.5,45.9166L 53.8333,45.9167L 53.8333,53.8333L 60.1666,53.8333L 60.1667,39.5833L 53.8333,39.5833L 53.8333,26.9167L 41.1667,26.9167L 41.1667,19L 34.8333,19L 34.8333,26.9167L 22.1667,26.9167L 22.1667,39.5833L 15.8333,39.5833L 15.8333,53.8333 Z "/>
+</Canvas>

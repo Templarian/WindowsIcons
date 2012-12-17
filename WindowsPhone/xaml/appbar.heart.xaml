@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Canvas xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Name="appbar_heart" Width="76" Height="76" Clip="F1 M 0,0L 76,0L 76,76L 0,76L 0,0">
+	<Path Width="40.3405" Height="36.7886" Canvas.Left="17.8297" Canvas.Top="19.5517" Stretch="Fill" Fill="#FF000000" Data="F1 M 18.2084,32.5903C 16.3611,25.7292 21.6389,20.4514 26.125,19.6597C 30.6111,18.8681 34.3056,22.5625 38,26.2569C 41.6945,22.5625 45.3889,18.8681 49.875,19.6597C 54.3611,20.4514 59.6389,25.7292 57.7916,32.5903C 55.9444,39.4514 46.9722,47.8958 38.0001,56.3402C 29.0278,47.8958 20.0556,39.4514 18.2084,32.5903 Z "/>
+</Canvas>

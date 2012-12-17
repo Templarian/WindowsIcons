@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Canvas xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Name="appbar_clear_inverse" Width="76" Height="76" Clip="F1 M 0,0L 76,0L 76,76L 0,76L 0,0">
+	<Canvas x:Name="Icon" Width="76" Height="76" Canvas.Left="0" Canvas.Top="0">
+		<Path x:Name="Path" Width="40.8484" Height="28.5" Canvas.Left="19" Canvas.Top="23.75" Stretch="Fill" Fill="#FFFFFFFF" Data="F1 M 22.1667,23.75L 47.0692,23.75L 58.9209,35.6017C 60.1575,36.8384 60.1575,38.8434 58.9209,40.08L 47.1468,52.25L 22.1667,52.25C 20.4178,52.25 19,50.8322 19,49.0833L 19,26.9167C 19,25.1678 20.4178,23.75 22.1667,23.75 Z M 40.4314,45.8369L 42.6706,43.5978L 37.0726,37.9998L 42.6705,32.4019L 40.4314,30.1628L 34.8335,35.7606L 29.2356,30.1627L 26.9964,32.4019L 32.5943,37.9998L 26.9963,43.5977L 29.2355,45.8369L 34.8334,40.239L 40.4314,45.8369 Z "/>
+	</Canvas>
+</Canvas>

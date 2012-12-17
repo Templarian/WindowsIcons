@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Canvas xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Name="appbar_music" Width="76" Height="76" Clip="F1 M 0,0L 76,0L 76,76L 0,76L 0,0">
+	<Path Width="33.25" Height="38" Canvas.Left="20.5833" Canvas.Top="19" Stretch="Fill" Fill="#FF000000" Data="F1 M 26.9167,47.5L 28.5,47.6496L 28.5,23.75L 53.8333,19L 53.8333,47.5C 53.8333,50.1234 50.9978,52.25 47.5,52.25C 44.0022,52.25 41.1667,50.1234 41.1667,47.5C 41.1667,44.8766 44.0022,42.75 47.5,42.75C 48.0467,42.75 48.5773,42.802 49.0833,42.8997L 49.0833,24.6406L 33.25,27.6094L 33.25,52.25C 33.25,54.8734 30.4145,57 26.9167,57C 23.4189,57 20.5833,54.8734 20.5833,52.25C 20.5833,49.6266 23.4189,47.5 26.9167,47.5 Z "/>
+</Canvas>

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Canvas xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Name="appbar_control_eject" Width="76" Height="76" Clip="F1 M 0,0L 76,0L 76,76L 0,76L 0,0">
+	<Path Width="38" Height="30.0833" Canvas.Left="19" Canvas.Top="22.1667" Stretch="Fill" Fill="#FF000000" Data="F1 M 19,44.3333L 57,44.3333L 57,52.25L 19,52.25L 19,44.3333 Z M 38,22.1667L 57,41.1667L 19,41.1667L 38,22.1667 Z "/>
+</Canvas>

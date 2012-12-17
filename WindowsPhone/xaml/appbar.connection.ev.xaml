@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Canvas xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Name="appbar_connection_ev" Width="76" Height="76" Clip="F1 M 0,0L 76,0L 76,76L 0,76L 0,0">
+	<Path Width="16.1791" Height="25.3413" Canvas.Left="20.4962" Canvas.Top="25.266" Stretch="Fill" Fill="#FF000000" Data="F1 M 35.5733,35.1104L 26.1488,35.1104L 26.1488,30.0873L 36.1434,30.0873L 36.1434,25.266L 20.4962,25.266L 20.4962,50.6073L 36.6754,50.6073L 36.6754,45.786L 26.1488,45.786L 26.1488,39.6229L 35.5733,39.6229L 35.5733,35.1104 Z "/>
+	<Path Width="19.3325" Height="18.1925" Canvas.Left="36.8362" Canvas.Top="32.4504" Stretch="Fill" Fill="#FF000000" Data="F1 M 36.8362,32.4504L 43.5573,50.6429L 49.2966,50.6429L 56.1687,32.4504L 50.1273,32.4504L 47.7485,40.896C 47.352,42.4402 47.0122,43.9317 46.729,45.3704L 46.6157,45.3704C 46.3388,43.9452 45.9864,42.464 45.5585,40.9268L 43.0664,32.4504L 36.8362,32.4504 Z "/>
+</Canvas>

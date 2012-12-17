@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Canvas xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Name="appbar_location_add" Width="76" Height="76" Clip="F1 M 0,0L 76,0L 76,76L 0,76L 0,0">
+	<Path Width="23.75" Height="49.4791" Canvas.Left="26.9167" Canvas.Top="13.8542" Stretch="Fill" Fill="#FF000000" Data="F1 M 26.9167,13.8542L 50.6667,13.8542L 50.6667,39.5833L 26.9167,63.3333L 26.9167,13.8542 Z M 36.4167,19L 36.4167,23.75L 31.6667,23.75L 31.6667,28.5L 36.4167,28.5L 36.4167,33.25L 41.1667,33.25L 41.1667,28.5L 45.9167,28.5L 45.9167,23.75L 41.1667,23.75L 41.1667,19L 36.4167,19 Z "/>
+</Canvas>

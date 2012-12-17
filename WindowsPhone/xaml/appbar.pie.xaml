@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Canvas xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Name="appbar_pie" Width="76" Height="76" Clip="F1 M 0,0L 76,0L 76,76L 0,76L 0,0">
+	<Path Width="37.2343" Height="37.2343" Canvas.Left="19" Canvas.Top="19.7657" Stretch="Fill" Fill="#FF000000" Data="F1 M 39.5833,36.4167L 44.7067,19.7657C 50.2054,21.4556 54.5443,25.7946 56.2342,31.2933L 39.5833,36.4167 Z M 36.4167,22.1667C 38.1997,22.1667 39.9202,22.4346 41.54,22.9324L 36.4167,39.5833L 53.0676,34.46C 53.5654,36.0798 53.8333,37.8003 53.8333,39.5833C 53.8333,49.2023 46.0356,57 36.4167,57C 26.7977,57 19,49.2023 19,39.5833C 19,29.9644 26.7977,22.1667 36.4167,22.1667 Z "/>
+</Canvas>
