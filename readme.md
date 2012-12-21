@@ -20,9 +20,7 @@ Coming Soon
 
 All of these icons were created in Expression Design.
 
-[Expression Design 4 June Preview (recommended)](http://www.microsoft.com/en-us/download/details.aspx?id=27579) - Microsoft is being __very slow__ on the releases, so they call them "previews".
-
-[Expression Design 4 (antiquated)](http://www.microsoft.com/expression/products/Design_Overview.aspx)
+[Expression Design 4](http://www.microsoft.com/en-us/download/details.aspx?id=36180)
 
 ## Tutorials
 
