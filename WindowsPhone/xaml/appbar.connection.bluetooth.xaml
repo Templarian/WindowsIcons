@@ -1,4 +1,4 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Canvas xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Name="appbar_connection_bluetooth" Width="76" Height="76" Clip="F1 M 0,0L 76,0L 76,76L 0,76L 0,0">
-	<Path Width="25.3333" Height="45.9167" Canvas.Left="25.3333" Canvas.Top="15.0417" Stretch="Fill" Fill="#FFFFFFFF" Data="F1 M 50.6667,46.7083L 36.4167,60.9583L 36.4167,43.5417L 28.5,49.875L 25.3333,46.7083L 34.8333,38L 25.3333,29.2917L 28.5,26.125L 36.4167,32.4583L 36.4167,15.0417L 50.6667,29.2917L 41.9583,38L 50.6667,46.7083 Z M 41.1667,43.5417L 41.1667,49.875L 44.3333,46.7083L 41.1667,43.5417 Z M 41.1667,32.4583L 44.3333,29.2917L 41.1667,26.125L 41.1667,32.4583 Z "/>
+	<Path Width="25.75" Height="47" Canvas.Left="25.25" Canvas.Top="14" Stretch="Fill" Fill="#FF000000" Data="F1 M 51,47L 36,61L 36,43L 28.25,50L 25.25,46.75L 35,38L 25.25,29.25L 28.25,26L 36,32L 36,14L 51,29L 42,38L 51,47 Z M 41,43L 41,50.5L 44.5,46.5L 41,43 Z M 41,33L 44.5,29.5L 41,25.3995L 41,33 Z "/>
 </Canvas>
