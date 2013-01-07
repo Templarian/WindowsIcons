@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Canvas xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Name="appbar_page_corner_text" Width="76" Height="76" Clip="F1 M 0,0L 76,0L 76,76L 0,76L 0,0">
+	<Path Width="53.9438" Height="51.0877" Canvas.Left="3.05619" Canvas.Top="19" Stretch="Fill" Fill="#FF000000" Data="F1 M 57,19L 8.60117,19C 7.57586,20.5832 6.67496,22.2545 5.91232,24L 52,24L 52,70.0877C 53.7455,69.3251 55.4168,68.4242 57,67.3988L 57,19 Z M 46,30L 3.91849,30C 3.5383,31.626 3.27147,33.2956 3.12678,35L 46,35L 46,30 Z M 46,40L 3.05619,40C 3.15208,41.702 3.36958,43.3715 3.70014,45L 46,45L 46,40 Z M 46,50L 5.11131,50C 5.74451,51.735 6.51108,53.4058 7.39861,55L 46,55L 46,50 Z M 46,60L 10.7772,60C 12.256,61.8276 13.9151,63.5033 15.7274,65L 46,65L 46,60 Z "/>
+</Canvas>
