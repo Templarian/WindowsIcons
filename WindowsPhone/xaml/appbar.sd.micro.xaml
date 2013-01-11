@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Canvas xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Name="appbar_sd_micro" Width="76" Height="76" Clip="F1 M 0,0L 76,0L 76,76L 0,76L 0,0">
+	<Path Width="28" Height="40" Canvas.Left="25" Canvas.Top="18" Stretch="Fill" Fill="#FF000000" Data="F1 M 27,18L 47,18C 47.8284,18 49,19.1716 49,20L 49,30.7848C 50.1847,31.7451 53,34.3264 53,35L 53,39L 51,39L 50.9999,42.25C 50.9999,43.25 52.9999,44.25 52.9999,45.25L 52.9999,56C 52.9999,56.8284 51.8284,58 50.9999,58L 27,58C 26.1716,58 25,56.8284 25,56L 25,20C 25,19.1716 26.1716,18 27,18 Z "/>
+</Canvas>
