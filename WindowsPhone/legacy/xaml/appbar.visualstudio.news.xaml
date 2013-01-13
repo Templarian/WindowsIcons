@@ -1,4 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Canvas xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Name="appbar_visualstudio_news" Width="48" Height="48" Clip="F1 M 0,0L 48,0L 48,48L 0,48L 0,0" UseLayoutRounding="False">
-	<Path Width="28" Height="23.0104" Canvas.Left="8" Canvas.Top="12.9896" Stretch="Fill" Fill="#FF000000" Data="F1 M 18,19.75L 23,23L 32,15L 36,18L 36,34L 31,36L 22,29L 18,32.25L 15,31L 15,21L 18,19.75 Z M 17,29.5L 21,26L 17,22.5L 17,29.5 Z M 31,21L 25.5,26L 31,30L 31,21 Z M 8,20L 11.5,20L 11.5,22L 8,22L 8,20 Z M 11.0429,14.633L 13.5178,17.1079L 12.1036,18.5221L 9.62869,16.0472L 11.0429,14.633 Z M 16.9896,12.9896L 16.9896,16.4896L 14.9896,16.4896L 14.9896,12.9896L 16.9896,12.9896 Z M 22.3566,16.0325L 19.8817,18.5073L 18.4675,17.0931L 20.9424,14.6183L 22.3566,16.0325 Z M 9.6434,25.9467L 12.1183,23.4718L 13.5325,24.886L 11.0576,27.3609L 9.6434,25.9467 Z "/>
-</Canvas>
