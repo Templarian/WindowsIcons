@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Canvas xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Name="appbar_list_merge" Width="76" Height="76" Clip="F1 M 0,0L 76,0L 76,76L 0,76L 0,0">
+	<Path Width="40.5" Height="35" Canvas.Left="19" Canvas.Top="23" Stretch="Fill" Fill="#FF000000" Data="F1 M 19,23L 27,23L 27,31L 19,31L 19,23 Z M 19,34L 27,34L 27,42L 19,42L 19,34 Z M 31,23L 57,23L 57,31L 31,31L 31,23 Z M 19,45L 27,45L 27,53L 19,53L 19,45 Z M 31,34L 48.25,34L 41.25,41L 47,41L 47,42L 31,42L 31,34 Z M 57,34L 57,39.25L 51.75,34L 57,34 Z M 57,42L 53.3531,42L 53,41L 57,41L 57,42 Z M 31,45L 47,45L 47,53L 31,53L 31,45 Z M 57,45L 57,50.2638C 56.0222,48.4369 55.1811,46.5727 54.526,45L 57,45 Z M 48,58L 48,41L 48,40L 44,40L 50,34L 56,40L 52,40L 52,41C 52,41 54.5,50.25 59.5,54.25L 55.75,56.5C 54.3092,55.3473 53.0552,53.5719 52,51.6283L 52,58L 48,58 Z "/>
+</Canvas>
