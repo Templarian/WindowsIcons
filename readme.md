@@ -2,7 +2,7 @@
 
 This [Modern UI Icons](http://modernuiicons.com/) project was started back in October 2011 with the goal of allowing developers a single solution for icons. Licensed under Creative Commons 3.0 the pack has grown very rapidly with hundreds of suggestions through Twitter.
 
-My goal of moving the icons to github is to get more community involvement. I also really want to cover the icon needs for Windows 8 developers.
+My goal of moving the icons to GitHub is to get more community involvement, not only in requests, but to gauge community interest in extending these for Windows 8.
 
 Thank you all so much for all the support and suggestions. If you found these useful feel free to [donate](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=JAJEKK28BB6EQ&lc=US&item_name=Templarian&item_number=git%2dwindows%2dicons&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted) me a beer.
 
@@ -10,7 +10,7 @@ Thank you all so much for all the support and suggestions. If you found these us
 
 ## Windows Phone [![preview](http://img33.imageshack.us/img33/5805/maghh.png)](http://modernuiicons.com/)
 
-Currently there are hundreds of 76x76 icons provided in this pack. If you are using the icons anywhere other than the application bar .xaml vector files are provided. Be sure to only use the white (aka dark) icons for the appbar.
+Currently there are hundreds of 76x76 icons provided in this pack. Both XAML and SVG vector files are provided and I encourage you to use them instead of static PNG files wherever possible. Be sure to only use the white (aka dark) icons for the appbar.
 
 ## WindowsRT
 
