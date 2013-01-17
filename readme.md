@@ -14,7 +14,7 @@ Currently there are hundreds of 76x76 icons provided in this pack. Both XAML and
 
 ## WindowsRT
 
-Coming Soon
+This section is still a work in progress. The idea being to provide larger vector assets outside of the normal circle that the application bar is limited by.
 
 ## Expression Design
 
