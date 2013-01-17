@@ -10,7 +10,7 @@ Thank you all so much for all the support and suggestions. If you found these us
 
 ## Windows Phone [![preview](http://img33.imageshack.us/img33/5805/maghh.png)](http://modernuiicons.com/)
 
-Currently there are hundreds of 76x76 icons provided in this pack (the legacy folder contains 48x48). If you are using the icons anywhere other than the application bar .xaml vector files are provided. Be sure to only use the white (aka dark) icons for the appbar.
+Currently there are hundreds of 76x76 icons provided in this pack. If you are using the icons anywhere other than the application bar .xaml vector files are provided. Be sure to only use the white (aka dark) icons for the appbar.
 
 ## WindowsRT
 
