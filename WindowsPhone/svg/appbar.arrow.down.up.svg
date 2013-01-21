@@ -1,6 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" width="76" height="76" viewBox="0 0 76.00 76.00" enable-background="new 0 0 76.00 76.00" xml:space="preserve">
-	<path fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round" d="M 25.3333,22.1667L 31.6666,22.1667L 31.6666,48.6875L 39.5833,39.5834L 39.5833,49.875L 28.4999,61.75L 17.4167,49.875L 17.4167,39.5834L 25.3333,48.6875L 25.3333,22.1667 Z "/>
-	<path fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round" d="M 44.3333,53.8334L 50.6666,53.8334L 50.6666,27.3125L 58.5833,36.4167L 58.5833,26.125L 47.5,14.25L 36.4166,26.125L 36.4166,36.4167L 44.3333,27.3125L 44.3333,53.8334 Z "/>
+	<path fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round" d="M 52,54L 44,54L 44,29.25L 35.9999,37.25L 35.9999,26.75L 48,14.75L 59.9999,26.75L 59.9999,37.25L 52,29.25L 52,54 Z M 23.9999,22L 31.9999,22L 31.9999,46.75L 40,38.75L 40,49.25L 27.9999,61.25L 16,49.25L 16,38.75L 23.9999,46.75L 23.9999,22 Z "/>
 </svg>
