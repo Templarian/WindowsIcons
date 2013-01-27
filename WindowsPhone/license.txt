@@ -1,7 +1,14 @@
 Read the license:
 http://creativecommons.org/licenses/by/3.0/ *
 
-Basicaly, use it anyway you want but include this license file in the source if your project is open source. Nothing is needed in the front facing project (UNLESS you are using any of the icons listed below in the attribution section). Commercial use is not only allowed but encouraged. This pack was made to promote consistency in applications.
+- If your project is open source include this license file.
+- Nothing is needed in the front facing project (UNLESS you
+  are using any of the icons listed below in the attribution section).
+- Commercial use is not only allowed but encouraged. Do not worry you
+  do not have to attribute, I know how much of a pain that is. If it is
+  an icon in the attribution list below, you still need to attribute those!
+- Do not distribute the entire package (I've allowed this dozens of
+  times for open source projects, but email me first).
 
 Creator
 - Austin Andrews (@templarian)
