@@ -1,4 +1,4 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Canvas xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Name="appbar_download" Width="76" Height="76" Clip="F1 M 0,0L 76,0L 76,76L 0,76L 0,0">
-	<Path Width="25.3333" Height="41.1667" Canvas.Left="25.3333" Canvas.Top="15.8333" Stretch="Fill" Fill="#FF000000" Data="F1 M 25.3333,52.25L 50.6667,52.25L 50.6667,57L 25.3333,57L 25.3333,52.25 Z M 34.8333,15.8333L 41.1667,15.8333L 41.1667,36.4167L 49.0833,26.9167L 49.0833,36.4167L 38,49.0833L 26.9167,36.4167L 26.9167,26.9167L 34.8333,36.4167L 34.8333,15.8333 Z "/>
+	<Path Width="26" Height="41" Canvas.Left="25" Canvas.Top="16" Stretch="Fill" Fill="#FF000000" Data="F1 M 25,52L 51,52L 51,57L 25,57L 25,52 Z M 35,16L 41,16L 41,36.5L 49,27L 49,36.5L 38,49L 27,36.5L 27,27L 35,36.5L 35,16 Z "/>
 </Canvas>
