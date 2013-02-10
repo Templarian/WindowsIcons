@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Canvas xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Name="appbar_potion" Width="76" Height="76" Clip="F1 M 0,0L 76,0L 76,76L 0,76L 0,0">
+	<Path Width="38" Height="40" Canvas.Left="19" Canvas.Top="18" Stretch="Fill" Fill="#FF000000" Data="F1 M 28,18L 48,18L 48,22L 45,22L 45,29L 57,52L 54,58L 22,58L 19,52L 31,29L 31,22L 28,22L 28,18 Z M 28,54L 37,36L 43.8461,36L 41,31L 41,22L 35,22L 35,31L 23.8461,54L 28,54 Z "/>
+</Canvas>
