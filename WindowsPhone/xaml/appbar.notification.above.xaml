@@ -1,4 +1,4 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Canvas xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Name="appbar_notification_above" Width="76" Height="76" Clip="F1 M 0,0L 76,0L 76,76L 0,76L 0,0">
-	<Path Width="38" Height="33.25" Canvas.Left="19" Canvas.Top="23.75" Stretch="Fill" Fill="#FF000000" Data="F1 M 19,23.75L 57,23.75L 57,47.5L 47.5,47.5L 38,57L 28.5,47.5L 19,47.5L 19,23.75 Z "/>
+	<Path Width="38" Height="33" Canvas.Left="19" Canvas.Top="24" Stretch="Fill" Fill="#FF000000" Data="F1 M 19,24L 57,24L 57,48L 47,48L 38,57L 29,48L 19,48L 19,24 Z "/>
 </Canvas>
