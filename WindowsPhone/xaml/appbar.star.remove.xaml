@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Canvas xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Name="appbar_star_remove" Width="76" Height="76" Clip="F1 M 0,0L 76,0L 76,76L 0,76L 0,0">
+	<Path x:Name="Cutter" Width="52.2455" Height="52.2455" Canvas.Left="11.8772" Canvas.Top="11.8773" Stretch="Fill" Fill="#FF000000" Data="F1 M 17.4167,32.25L 32.9107,32.25L 38,18L 43.0893,32.25L 58.5833,32.25L 45.6798,41.4944L 51.4583,56L 38,48.0833L 26.125,56L 30.5979,41.7104L 17.4167,32.25 Z M 28.0137,45.1579L 25.4362,53.3922L 14.7057,64.1228C 13.7101,63.2344 12.7656,62.2899 11.8772,61.2943L 28.0137,45.1579 Z M 47.8284,31L 44.2559,31L 43.7074,29.4642L 61.2943,11.8773C 62.2899,12.7656 63.2343,13.7101 64.1227,14.7057L 47.8284,31 Z "/>
+</Canvas>
