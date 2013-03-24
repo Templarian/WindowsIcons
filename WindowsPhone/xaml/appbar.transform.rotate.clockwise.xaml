@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Canvas xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Name="appbar_transform_rotate_clockwise" Width="76" Height="76" Clip="F1 M 0,0L 76,0L 76,76L 0,76L 0,0">
+	<Path Width="38" Height="38" Canvas.Left="19" Canvas.Top="19" Stretch="Fill" Fill="#FF000000" Data="F1 M 57,57L 42,57L 42,42L 47.1924,47.1924C 49.5449,44.8399 51,41.5899 51,38C 51,30.8203 45.1797,25 38,25C 30.8203,25 25,30.8203 25,38C 25,42.6137 27.4035,46.6661 31.0266,48.9734L 26.7138,53.2862C 22.0342,49.8254 19,44.2671 19,38C 19,27.5066 27.5066,19 38,19C 48.4934,19 57,27.5066 57,38C 57,43.2467 54.8734,47.9967 51.435,51.435L 57,57 Z "/>
+</Canvas>
