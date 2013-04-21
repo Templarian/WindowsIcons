@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Canvas xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Name="appbar_social_openid" Width="76" Height="76" Clip="F1 M 0,0L 76,0L 76,76L 0,76L 0,0">
+	<Path Width="38.006" Height="34.627" Canvas.Left="18.8938" Canvas.Top="20.6865" Stretch="Fill" Fill="#FF000000" Data="F1 M 36.3123,34.1318L 36.3123,51.6058C 18.9396,49.3507 22.9333,35.2665 36.3123,34.1318 Z M 53.1942,34.2901C 49.4637,32.1821 45.6893,30.9984 42.0765,30.5347L 42.0765,20.6865L 36.3123,24.3967L 36.3123,30.3848C 18.449,31.7805 8.27681,50.2122 36.3123,55.3135L 42.0765,51.6058L 42.0765,34.4173C 44.3903,34.818 46.8729,35.5735 49.489,36.7622L 46.1939,38.823L 56.8998,38.823L 56.8998,31.8164L 53.1942,34.2901 Z "/>
+</Canvas>
