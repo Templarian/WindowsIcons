@@ -20,6 +20,10 @@ Contributor**
   - appbar.chevron.left
   - appbar.chevron.right
 
+Derived Works
+- Alex Peattie
+  - Social: http://www.alexpeattie.com/projects/justvector_icons/
+
 Attribution***
 - Kris Vandermotten (@kvandermotten)
   - appbar.medical.pulse
