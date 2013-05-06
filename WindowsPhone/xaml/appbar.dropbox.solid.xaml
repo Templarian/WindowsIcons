@@ -1,4 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Canvas xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Name="appbar_dropbox_solid" Width="76" Height="76" Clip="F1 M 0,0L 76,0L 76,76L 0,76L 0,0">
-	<Path Width="50.6666" Height="45.5209" Canvas.Left="12.6667" Canvas.Top="16.2291" Stretch="Fill" Fill="#FF000000" Data="F1 M 37.6042,42.75L 27.7083,51.4583L 12.6667,41.9583L 22.1667,34.0417L 13.0626,26.5208L 28.8959,16.2291L 38.1285,24.1735L 47.0913,16.301L 63.3333,26.5208L 53.8333,34.0417L 62.5416,42.3542L 48.2916,51.4583L 37.6042,42.75 Z M 38,41.5625L 52.25,34.0417L 38,25.3333L 23.75,34.0417L 38,41.5625 Z M 22.1666,49.0834L 27.7083,52.6458L 37.2083,43.9375L 37.2082,61.75L 22.1666,54.625L 22.1666,49.0834 Z M 53.8333,49.0834L 53.8334,54.625L 38.396,61.75L 38.3959,44.3333L 48.2916,52.6459L 53.8333,49.0834 Z "/>
-</Canvas>
