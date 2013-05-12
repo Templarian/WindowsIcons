@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Canvas xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Name="appbar_border_vertical" Width="76" Height="76" Clip="F1 M 0,0L 76,0L 76,76L 0,76L 0,0">
+	<Path Width="38" Height="38" Canvas.Left="19" Canvas.Top="19" Stretch="Fill" Fill="#FF000000" Data="F1 M 19,19L 57,19L 57,57L 19,57L 19,19 Z M 22,22.0001L 22,37L 23,37L 23,39L 22,39L 22,54L 37,54L 37,22L 22,22.0001 Z M 27,37L 27,39L 25,39L 25,37L 27,37 Z M 31,37L 31,39L 29,39L 29,37L 31,37 Z M 35,37L 35,39L 33,39L 33,37L 35,37 Z M 53.9999,37L 53.9999,22.0001L 39,22L 39,54L 53.9999,54L 53.9999,39L 53,39L 53,37L 53.9999,37 Z M 49,39L 49,37L 51,37L 51,39L 49,39 Z M 43,37L 43,39L 41,39L 41,37L 43,37 Z M 47,37L 47,39L 45,39L 45,37L 47,37 Z "/>
+</Canvas>
