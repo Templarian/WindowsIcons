@@ -1,4 +1,8 @@
-Read the license:
+# License
+
+Please carefully understand the license and download the latest icons at ModernUIIcons.com.
+
+## Understand Your Rights
 http://creativecommons.org/licenses/by/3.0/ *
 
 - If your project is open source include this license file.
@@ -10,21 +14,21 @@ http://creativecommons.org/licenses/by/3.0/ *
 - Do not distribute the entire package (I've allowed this dozens of
   times for open source projects, but email me first).
 
-Creator
+## Creator
 - Austin Andrews (@templarian)
 
-Contributor**
+## Contributor**
 - Oren Nachman
   - appbar.chevron.down
   - appbar.chevron.up
   - appbar.chevron.left
   - appbar.chevron.right
 
-Derived Works
+## Derived Works
 - Alex Peattie
   - Social: http://www.alexpeattie.com/projects/justvector_icons/
 
-Attribution***
+## Attribution***
 - Kris Vandermotten (@kvandermotten)
   - appbar.medical.pulse
 - Constantin Kichinsky (@kichinsky)
