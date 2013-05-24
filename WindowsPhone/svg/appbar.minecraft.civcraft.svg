@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" width="76" height="76" viewBox="0 0 76.00 76.00" enable-background="new 0 0 76.00 76.00" xml:space="preserve">
+	<path fill="#000000" fill-opacity="0.603922" stroke-linejoin="round" d="M 38,44L 43,42L 43,36.5L 38,38.5L 33,36.5L 33,42L 38,44 Z "/>
+	<path fill="#000000" fill-opacity="1" stroke-linejoin="round" d="M 43,36.5L 43,35L 38,32L 33,35L 33,36.5L 38,38.5L 43,36.5 Z "/>
+	<path fill="#000000" fill-opacity="0.403922" stroke-linejoin="round" d="M 19,38L 32.2776,32.4094C 30.8685,33.8516 30,35.8244 30,38L 19,38 Z "/>
+	<path fill="#000000" fill-opacity="0.701961" stroke-linejoin="round" d="M 38,19L 38,30C 35.8244,30 33.8516,30.8685 32.4094,32.2776L 38,19 Z "/>
+	<path fill="#000000" fill-opacity="0.403922" stroke-linejoin="round" d="M 38,19L 43.5906,32.2776C 42.1484,30.8685 40.1756,30 38,30L 38,19 Z "/>
+	<path fill="#000000" fill-opacity="0.701961" stroke-linejoin="round" d="M 19,38L 30,38C 30,40.1756 30.8685,42.1484 32.2776,43.5906L 19,38 Z "/>
+	<path fill="#000000" fill-opacity="0.403922" stroke-linejoin="round" d="M 38,57L 32.4094,43.7224C 33.8516,45.1315 35.8244,46 38,46L 38,57 Z "/>
+	<path fill="#000000" fill-opacity="0.701961" stroke-linejoin="round" d="M 38,57L 38,46C 40.1756,46 42.1484,45.1315 43.5906,43.7224L 38,57 Z "/>
+	<path fill="#000000" fill-opacity="0.403922" stroke-linejoin="round" d="M 57,38L 43.7224,43.5906C 45.1315,42.1484 46,40.1756 46,38L 57,38 Z "/>
+	<path fill="#000000" fill-opacity="0.701961" stroke-linejoin="round" d="M 57,38L 46,38C 46,35.8244 45.1315,33.8516 43.7224,32.4094L 57,38 Z "/>
+</svg>
