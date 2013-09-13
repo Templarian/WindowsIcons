@@ -3,14 +3,14 @@
 Please carefully understand the license and download the latest icons at ModernUIIcons.com.
 
 ## Understand Your Rights
-http://creativecommons.org/licenses/by/3.0/ *
+No Attribution and No Derived Works
+http://creativecommons.org/licenses/by-nd/3.0/ *
 
-- If your project is open source include this license file.
+- If your project is open source include this license file in the source.
 - Nothing is needed in the front facing project (UNLESS you
   are using any of the icons listed below in the attribution section).
-- Commercial use is not only allowed but encouraged. Do not worry you
-  do not have to attribute, I know how much of a pain that is. If it is
-  an icon in the attribution list below, you still need to attribute those!
+- Commercial use is not only allowed but encouraged. If it is an icon
+  in the attribution list below, you still need to attribute those!
 - Do not distribute the entire package (I've allowed this dozens of
   times for open source projects, but email me first).
 
@@ -45,6 +45,7 @@ http://creativecommons.org/licenses/by/3.0/ *
 Andrew Forrester, from The Noun Project
   - appbar.fingerprint
 
+* The license is for attirbution, but this is not required.
 ** Developers and designers that emailed Templarian the source .design icons to be added into the package. PNGs also accepted, but may take longer to be added.
 *** Icons I've copied so closely you want to attribute them and are also under the CC license.
 
