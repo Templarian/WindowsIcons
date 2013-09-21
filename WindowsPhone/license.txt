@@ -18,6 +18,8 @@ http://creativecommons.org/licenses/by-nd/3.0/ *
 - Austin Andrews (@templarian)
 
 ## Contributor**
+- Jay Zawrotny (@JayZawrotny)
+  - A Bunch
 - Oren Nachman
   - appbar.chevron.down
   - appbar.chevron.up
