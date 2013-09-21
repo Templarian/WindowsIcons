@@ -47,7 +47,7 @@ http://creativecommons.org/licenses/by-nd/3.0/ *
 Andrew Forrester, from The Noun Project
   - appbar.fingerprint
 
-* The license is for attirbution, but this is not required.
+* The license is for attribution, but this is not required.
 ** Developers and designers that emailed Templarian the source .design icons to be added into the package. PNGs also accepted, but may take longer to be added.
 *** Icons I've copied so closely you want to attribute them and are also under the CC license.
 
