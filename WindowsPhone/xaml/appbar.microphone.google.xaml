@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Canvas xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Name="appbar_microphone_google" Width="76" Height="76" Clip="F1 M 0,0L 76,0L 76,76L 0,76L 0,0">
+	<Path Width="30" Height="38" Canvas.Left="23" Canvas.Top="19" Stretch="Fill" Fill="#FF000000" Data="F1 M 38,19C 41.3137,19 44,21.6863 44,25L 44,38C 44,41.3137 41.3137,44 38,44C 34.6863,44 32,41.3137 32,38L 32,25C 32,21.6863 34.6863,19 38,19 Z M 40,57L 36,57L 36,50.9649C 28.7347,50.4521 23,44.3958 23,37L 23,36L 27,36C 27,42.0751 31.9249,47 38,47C 44.0751,47 49,42.0751 49,36L 52.9999,36L 52.9999,37C 52.9999,44.3958 47.2652,50.4521 40,50.9649L 40,57 Z "/>
+</Canvas>
