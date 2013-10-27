@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Canvas xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Name="appbar_connection_wifi_variant" Width="76" Height="76" Clip="F1 M 0,0L 76,0L 76,76L 0,76L 0,0">
+	<Path Width="38" Height="38" Canvas.Left="19" Canvas.Top="19" Stretch="Fill" Fill="#FF000000" Data="F1 M 53,49C 55.2091,49 57,50.7909 57,53C 57,55.2091 55.2091,57 53,57C 50.7909,57 49,55.2091 49,53C 49,50.7909 50.7909,49 53,49 Z M 57,24C 38.7746,24 24,38.7746 24,57L 19,57C 19,36.0132 36.0132,19 57,19L 57,24 Z M 57,34C 44.2974,34 34,44.2975 34,57L 29,57C 29,41.536 41.536,29 57,29L 57,34 Z M 57,44C 49.8203,44 44,49.8203 44,57L 39,57C 39,47.0589 47.0589,39 57,39L 57,44 Z "/>
+</Canvas>
