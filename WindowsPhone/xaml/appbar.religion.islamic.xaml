@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Canvas xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Name="appbar_religion_islamic" Width="76" Height="76" Clip="F1 M 0,0L 76,0L 76,76L 0,76L 0,0">
+	<Path Width="38" Height="38" Canvas.Left="19" Canvas.Top="19" Stretch="Fill" Fill="#FF000000" Data="F1 M 43,36L 48.1666,36L 50,30.5L 51.8333,36L 57,36L 52.8269,38.9808L 54.5,44L 50,41L 45.5,44L 47.1731,38.9808L 43,36 Z M 38,19C 41.3767,19 44.5476,19.8809 47.2956,21.4253C 46.0752,21.147 44.8047,21 43.5,21C 34.1112,21 26.5,28.6112 26.5,38C 26.5,47.3888 34.1112,55 43.5,55C 44.8047,55 46.0752,54.853 47.2956,54.5747C 44.5476,56.1191 41.3767,57 38,57C 27.5066,57 19,48.4934 19,38C 19,27.5066 27.5066,19 38,19 Z "/>
+</Canvas>
