@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Canvas xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Name="appbar_rocket" Width="76" Height="76" Clip="F1 M 0,0L 76,0L 76,76L 0,76L 0,0">
+	<Path Width="18" Height="38.5" Canvas.Left="29" Canvas.Top="19" Stretch="Fill" Fill="#FF000000" Data="F1 M 38,19C 39.4823,20.6344 43,26.1259 43,41L 47,46L 47,55L 43,50L 33,50L 29,55L 29,46L 33,41C 33,26.1259 36.0177,20.6344 38,19 Z M 38,57.5L 35,51L 41,51L 38,57.5 Z M 38,27L 36.1552,27.4612L 35.6203,30.5949L 38,30L 40.2918,30.573L 39.6953,27.4238L 38,27 Z "/>
+</Canvas>
