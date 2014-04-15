@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Canvas xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Name="appbar_battery_charging" Width="76" Height="76" Clip="F1 M 0,0L 76,0L 76,76L 0,76L 0,0">
+	<Path Width="39" Height="24" Canvas.Left="20" Canvas.Top="24" Stretch="Fill" Fill="#FF000000" Data="F1 M 40,38L 40,48L 36,48L 36,38L 34,38C 32.3431,38 31,36.6569 31,35L 31,28L 34,28L 34,24L 37,24L 37,28L 39,28L 39,24L 42,24L 42,28L 45,28L 45,35C 45,36.6569 43.6568,38 42,38L 40,38 Z M 59,34L 59,42L 56,42L 56,48L 41,48L 41,44L 52,44L 52,32L 46,32L 46,28L 56,28L 56,34L 59,34 Z M 24,32L 24,44L 35,44L 35,48L 20,48L 20,28L 30,28L 30,32L 24,32 Z "/>
+</Canvas>
