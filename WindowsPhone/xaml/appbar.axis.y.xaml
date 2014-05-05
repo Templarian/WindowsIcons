@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Canvas xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Name="appbar_axis_y" Width="76" Height="76" Clip="F1 M 0,0L 76,0L 76,76L 0,76L 0,0">
+	<Path Width="42" Height="42" Canvas.Left="19" Canvas.Top="15" Stretch="Fill" Fill="#FF000000" Data="F1 M 38,38L 51.416,38C 52.1876,36.2341 53.9497,35 56,35C 58.7614,35 61,37.2386 61,40C 61,42.7614 58.7614,45 56,45C 53.9497,45 52.1876,43.7659 51.416,42L 36.8284,42L 25.8284,53L 34,53L 30,57L 19,57L 19,46L 23,42L 23,50.1716L 34,39.1716L 34,24.584C 32.2341,23.8124 31,22.0503 31,20C 31,17.2386 33.2386,15 36,15C 38.7614,15 41,17.2386 41,20C 41,22.0503 39.7659,23.8124 38,24.584L 38,38 Z "/>
+</Canvas>
