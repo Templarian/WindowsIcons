@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Canvas xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Name="appbar_math_plus_minus" Width="76" Height="76" Clip="F1 M 0,0L 76,0L 76,76L 0,76L 0,0">
+	<Path Width="37" Height="35.9142" Canvas.Left="19" Canvas.Top="19" Stretch="Fill" Fill="#FF000000" Data="F1 M 38,46L 56,46L 56,50L 38,50L 38,46 Z M 21.0858,52.0858L 52.0858,21.0858L 54.9142,23.9142L 23.9142,54.9142L 21.0858,52.0858 Z M 19,26L 26,26L 26,19L 30,19L 30,26L 37,26L 37,30L 30,30L 30,37L 26,37L 26,30L 19,30L 19,26 Z "/>
+</Canvas>
