@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Canvas xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Name="appbar_social_instapaper" Width="76" Height="76" Clip="F1 M 0,0L 76,0L 76,76L 0,76L 0,0">
+	<Path Width="16" Height="38" Canvas.Left="30" Canvas.Top="19" Stretch="Fill" Fill="#FF000000" Data="F1 M 35,25C 35,23.9507 34.0493,23 33,23L 30,23L 30,19L 46,19L 46,23L 43,23C 41.9507,23 41,23.9507 41,25L 41,51C 41,52.0493 41.9507,53 43,53L 46,53L 46,57L 30,57L 30,53L 33,53C 34.0493,53 35,52.0493 35,51L 35,25 Z "/>
+</Canvas>
