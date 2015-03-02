@@ -3,7 +3,7 @@
 Please carefully understand the license and download the latest icons at ModernUIIcons.com.
 
 ## Understand Your Rights
-No Attribution and No Derived Works
+Attribution and No Derived Works
 http://creativecommons.org/licenses/by-nd/3.0/ *
 
 - If your project is open source include this license file in the source.
